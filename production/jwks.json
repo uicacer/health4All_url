@@ -1,14 +1,1 @@
-{
-    "_comment":  "Example keys from the docs. These are the public keys used to verify the JWTs issued by the auth server. They are not secret and can be shared with anyone who needs to verify the tokens.",
-    "keys": [
-        {   "kty":"RSA", 
-            "e": "AQAB", 
-            "kid": "d1fc1715-3299-43ec-b5de-f943803314c2", 
-            "n": "uPkpNCkqbbismKNwKguhL0P4Q40sbyUkUFcmDAACqBntWerfjv9VzC3cAQjwh3NpJyRKf7JvwxrbELvPRMRsXefuEpafHfNAwj3acTE8xDRSXcwzQwd7YIHmyXzwHDfmOSYW7baAJt-g_FiqCV0809M9ePkTwNvjpb6tlJu6AvrNHq8rVn1cwvZLIG6KLCTY-EHxNzsBblJYrZ5YgR9sfBDo7R-YjE8c761PSrBmUM4CAQHtQu_w2qa7QVaowFwcOkeqlSxZcqqj8evsmRfqJWoCgAAYeRIsgKClZaY5KC1sYHIlLs2cp2QXgi7rb5yLUVBwpSWM4AWJ_J5ziGZBSQYB4sWWn8bjc5-k1JpUnf88-UVZv9vrrkMJjNam32Z6FNm4g49gCVu_TH5M83_pkrsNWwCu1JquY9Z-eVNCsU_AWPgHeVZyXT6giHXZv_ogMWSh-3opMt9dzPwYseG9gTPXqDeKRNWFEm46X1zpcjh-sD-8WcAlgaEES6ys_O8Z" 
-        },
-        {   "kty":"RSA", 
-            "e":"AQAB",
-            "kid":"1248110c-afbd-484c-b75b-b30200ffcf05",
-            "n":"zYlmlLzhQNpRq263CoShHgyJCrNLm6oFrf0FTQ0pwYIyaTFZirW-G6wDyVwtaQA5Kjth0NjglQIYfPR9rPBGmX3CSVtmZCLEhFeMMp_W3SoZFZJJypP4x2AbG7TqPvkbpuYWHT15Lvp9amgGqdNQ-UyPZS8WMp1NloDw4R9Nomo8yEk8OcgmG1ORqrmFLam3AHPvZZH2wp88gE9DWOAoOwOpDP32QSo1ii0Wrw2gV_UwsVuAjhkFK3asOCHoqlRhm_c49d1OgB7QvrnP-S5-Wa1JsQ5lKa52G7UVkyNPA1pFw7iW7PHXCgoe8inSmnrqkzmtmDjpOnqpuGU39I6byQ"}
-    ]
-}	
+{"keys": [{"kty": "RSA", "kid": "aRJXrYKY0TiB1lWWnRorBXhbpjTMnMT79MDvEfUg9ok", "n": "6OL9rctGgsi3GwH0p9F_vKwFh8LOcFE0M1FagK_53p3XoRiF1RHbmkNFJjfanosXfvAp8P0bX5NcuglYwhfPH6NEwwtAHjejCOZGRX0dW_QbGYfS2zcmX7BySI7xmbAz2dyb0SB2vmSk-MUeFC0BIPr-B0-wvT7KEVAY9t1geU3MXxqFNXL1zUYclCJFNTZbbNcxDe4Ptn9ZNg6Yzzgk8PLY1-QnNkWvOhGhz-TSeUT8DjzZz9EQN3MVQ5B-1dTCozCS-F6V6jeOi7DWisRfqvxCFOBw-KURfEwZiKYLDCYVbaN5x-ONDqi0PgYlqMvq-P_iY71yNmoc1nzc5pFUOw", "e": "AQAB"}]}
